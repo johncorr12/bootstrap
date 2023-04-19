@@ -1,0 +1,53 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ .main{
+    width: 4%;
+}
+nav{
+    background-color:green ;
+    
+} 
+marquee {
+    color: black;
+}
+
+p{
+    width:70%;
+    font-size: xx-larger;
+
+}
+.animate__animated{
+    margin-top: 2rem;
+}
+button{
+    background-color:green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 50%;
+    margin-top: 2rem;
+}
+.more:hover{
+    background-color:yellowgreen;
+    color:black;
+}
+.footer{
+    background-color:green;
+    color: white;
+}
+
+.follow{
+    display: flex;
+    gap: 1rem; 
+    width: 10%;
+    margin-left: 3rem;
+    
+}
+.realm{
+    margin-top: 2rem;
+    line-height: 1rem;
+}
+
+

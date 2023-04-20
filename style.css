@@ -41,8 +41,8 @@ button{
 .follow{
     display: flex;
     gap: 1rem; 
-    width: 1rem;
-    margin-left: 3rem;
+    width: 3rem
+    /* margin-left: 3rem; */
     
 }
 .realm{
